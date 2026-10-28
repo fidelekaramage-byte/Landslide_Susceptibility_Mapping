@@ -2,7 +2,7 @@ Rwanda Landslide Susceptibility Mapping
 
 Research code for journal peer review
 
-This repository contains the Python/ArcPy implementation associated with the research manuscript entitled “An Automated Python-Based Logistic Regression Tool for National-Scale Landslide Susceptibility Mapping.”
+This repository contains the Python/ArcPy implementation associated with the research manuscript entitled “An Automated Python-Based Workflow for National-Scale Landslide Susceptibility Mapping: A Case Study of Rwanda.”
 
 The repository is provided to support editorial assessment, peer review, and evaluation of the computational workflow underlying the research.
 
